@@ -7,7 +7,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/about", (req, res) => {
-  res.send("Name: Namita Sharma | Enrollment: CS-23411630 | Section: 3CSE-12");
+  res.send("Name: Himanshu Kumar | Enrollment: CS-23411144 | Section: 3CSE-12");
 });
 
 app.get("/health", (req, res) => {
